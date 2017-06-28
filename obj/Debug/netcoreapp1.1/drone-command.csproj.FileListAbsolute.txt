@@ -1,0 +1,8 @@
+c:\dev2\drone-command\bin\Debug\netcoreapp1.1\drone-command.deps.json
+c:\dev2\drone-command\bin\Debug\netcoreapp1.1\drone-command.runtimeconfig.json
+c:\dev2\drone-command\bin\Debug\netcoreapp1.1\drone-command.runtimeconfig.dev.json
+c:\dev2\drone-command\bin\Debug\netcoreapp1.1\drone-command.dll
+c:\dev2\drone-command\bin\Debug\netcoreapp1.1\drone-command.pdb
+c:\dev2\drone-command\obj\Debug\netcoreapp1.1\drone-command.AssemblyInfo.cs
+c:\dev2\drone-command\obj\Debug\netcoreapp1.1\drone-command.dll
+c:\dev2\drone-command\obj\Debug\netcoreapp1.1\drone-command.pdb
